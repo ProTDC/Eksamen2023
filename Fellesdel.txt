@@ -1,0 +1,14 @@
+1.            
+Console.WriteLine("Skriv inn to tall:");
+var input1 = Convert.ToInt32(Console.ReadLine());
+var input2 = Convert.ToInt32(Console.ReadLine());
+
+var final = input1 + input2;
+Console.WriteLine(final);
+
+2.
+Fra Server Manager Dashboardet gå til Manage -> Add Roles and Features. Trykk next, next så next deretter i Server Roles huk av Active Directory Domain Services. Deretter bare gå gjennom resten av installasjonen og trykk install. 
+Når installasjonen er ferdig i Dashboardet trykk på flagget også Promote this server to a domain controller.
+
+3.
+Vi bruker et helpdesk system for å kunne hjelpe folk om IT relaterte problemer på en kjapp og effektivt måte

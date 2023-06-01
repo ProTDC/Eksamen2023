@@ -1,0 +1,1 @@
+En løkke er en slags syklus som fortsetter å kjøre seg selv helt til noe har blitt oppnåd

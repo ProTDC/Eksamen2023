@@ -1,0 +1,15 @@
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\bin\Debug\net7.0\Oppgave 6.exe
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\bin\Debug\net7.0\Oppgave 6.deps.json
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\bin\Debug\net7.0\Oppgave 6.runtimeconfig.json
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\bin\Debug\net7.0\Oppgave 6.dll
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\bin\Debug\net7.0\Oppgave 6.pdb
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.csproj.AssemblyReference.cache
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.AssemblyInfoInputs.cache
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.AssemblyInfo.cs
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.csproj.CoreCompileInputs.cache
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.dll
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\refint\Oppgave 6.dll
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.pdb
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\Oppgave 6.genruntimeconfig.cache
+C:\Users\protd\source\repos\Eksamen Greier\Eksamen\Oppgave 6\Oppgave 6\obj\Debug\net7.0\ref\Oppgave 6.dll
